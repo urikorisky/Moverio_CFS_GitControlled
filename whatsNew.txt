@@ -1,0 +1,17 @@
+Version 6, 15/9/16:
+
+- saves subject details instead of ignoring them altogether
+
+- Breaks every set number of trials (as a parameter in the XLSX file)
+
+- Ability to report a mistake in a trial, right after the trial ends
+
+- Training phase
+
+- Trial duration displayed once trial is over
+
+- Visual debugging level is now set to HIGH
+
+- Cursor is invisible
+
+- Upcoming trials details shown as soon as possible
